@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled files
+dist/
+*.js
+*.js.map
+
+# Logs
+logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+.angular/
+
+# Cache and build files
+.cache/
+.tmp/
+*.swp
+*.swo
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+
+# Miscellaneous
+*.bak
+*.backup
+*.DS_Store
+*.pyc
+*.pyo
+*.orig
+*.rej
+*.lock
+*.log
+*.sublime-workspace
+*.sublime-project
+*.sass-cache/
